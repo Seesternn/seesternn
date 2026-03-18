@@ -1,9 +1,6 @@
 <div align="center">
-
 # hey, ben seesternn 👋
-
 lise öğrencisi · donanım ve yazılımın kesiştiği yerde projeler üretiyorum
-
 </div>
 
 ---
